@@ -12,6 +12,7 @@ Easy Access: Download fonts directly from the repository and install them immedi
 # License
 This repository is licensed under the MIT License.
 
+## Other Resources
 See also
 🖌️ [Typography Principles](https://typographyprinciples.obys.agency/): Learn more about the fundamentals of typography and how to use fonts effectively in design.
 
