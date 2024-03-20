@@ -16,4 +16,5 @@ This repository is licensed under the MIT License.
 🖌️ [Typography Principles](https://typographyprinciples.obys.agency/): Learn more about the fundamentals of typography and how to use fonts effectively in design.
 
 🖋️ [Practical Typography](https://practicaltypography.com/) by Matthew Butterick
-🇺🇦 Arsenal font created by [Andrij Shevchenko](http://www.ukrainian-type.com/)
+
+ 🇺🇦 Arsenal font created by [Andrij Shevchenko](http://www.ukrainian-type.com/)
