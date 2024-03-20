@@ -17,4 +17,4 @@ This repository is licensed under the MIT License.
 
 🖋️ [Practical Typography](https://practicaltypography.com/) by Matthew Butterick
 
- 🇺🇦 Arsenal font created by [Andrij Shevchenko](http://www.ukrainian-type.com/) This font won the 1st place in the open all-Ukrainian competition "UKRAINIAN FONT" in 2012.
+ 🖊️ Arsenal font created by [Andrij Shevchenko](http://www.ukrainian-type.com/) This font won the 1st place in the open all-Ukrainian competition "UKRAINIAN FONT" in 2012.
